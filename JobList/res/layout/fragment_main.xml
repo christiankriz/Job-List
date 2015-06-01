@@ -17,12 +17,13 @@
 
         <EditText
             android:id="@+id/search_input"
-            android:layout_width="455dp"
             android:layout_height="wrap_content"
             android:background="@drawable/border_drawable"
             android1:paddingLeft="15dp" 
             android1:layout_margin="10dp"
+            android:layout_width="wrap_content"
             android1:paddingTop="10dp" 
+            android:layout_weight="1"
             >
 
         </EditText>
